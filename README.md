@@ -1,3 +1,5 @@
 Number Wizard UI
 
-Number guessing name
+Number guessing game.
+
+Download the zip file to play!
