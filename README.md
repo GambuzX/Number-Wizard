@@ -2,4 +2,4 @@ Number Wizard UI
 
 Number guessing game.
 
-Download the zip file to play!
+Download the rar file to play!
